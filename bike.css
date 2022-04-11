@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    border-width: thick;
+    border-style: inset;
+    border-color: gray;
+    padding:10px 10px 50px 50px;
+}
+h1 {
+    color: black;
+    margin-left: 40px;
+    }
+span.linkDesc {
+    color: blue;
+    font-size: 10pt;
+    font-style: italic;
+    }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+* {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
