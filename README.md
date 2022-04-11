@@ -1,5 +1,5 @@
 # Comm-College
-These pages illustrate search optomization tips.
+These pages illustrate search optimization tips.
  
 https://core3.com/cc/bikes/bikes-r-us.html
  
